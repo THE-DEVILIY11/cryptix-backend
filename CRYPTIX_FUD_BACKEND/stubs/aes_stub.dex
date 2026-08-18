@@ -1,0 +1,6 @@
+# AES-256 native decryptor stub
+# In production this would be a compiled .dex file
+# that loads encrypted payload from assets/cryptix/payload.enc
+# decrypts it with AES-256-CBC using the stored key/iv
+# and then executes the original DEX via dex class loader
+PLACEHOLDER — Replace with compiled AES native stub
